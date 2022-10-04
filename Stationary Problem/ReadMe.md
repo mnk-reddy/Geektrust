@@ -1,6 +1,8 @@
 # Pre-requisites
 * Python 3.8/3.9
 
+Link to problem statement:https://www.geektrust.com/coding/detailed/stationery-shop
+
 # How to run the code
 
 We have provided scripts to execute the code. The filename which has the main method should be named as `geektrust.py` and should not be renamed to anything else.
